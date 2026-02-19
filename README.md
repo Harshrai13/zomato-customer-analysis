@@ -5,7 +5,9 @@ The goal of this project is to analyze the Zomato restaurant dataset to understa
 
  
 ##Dataset
+## Dataset
 Public Zomato dataset containing 10,000+ restaurant records including location, cuisine type, ratings, cost and online delivery availability.
+
 
 ## Steps Performed
 - Data Cleaning (handled missing values and duplicates)
